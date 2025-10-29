@@ -254,9 +254,7 @@ export const LoginForm: React.FC<LoginFormProps> = ({
 
         {isLogin && (
           <div className="mt-4 p-4 bg-emerald-50 rounded-lg">
-            <p className="text-sm text-emerald-700 text-center">
-              <strong>Demo:</strong> Create an account to get started with your Ayurvedic journey
-            </p>
+           
           </div>
         )}
       </div>
