@@ -25,3 +25,4 @@ Follow these steps to run the Rasayana project:
   2. Start the server: npm run dev
 ![image alth](https://github.com/naushin515/Rasayana_webapp/blob/a4d28101c34a5afcfe70a0075cec9d94e88d7ccb/Screenshot%202025-10-29%20192410.png)
 ![image alth](https://github.com/naushin515/Rasayana_webapp/blob/be7f269737e2800445001e5af6931741cedc97d9/page2.png)
+![image alth](https://github.com/naushin515/Rasayana_webapp/blob/8cf624dc712c477a6ed40a2a11b001779c0a500f/page4.png)
