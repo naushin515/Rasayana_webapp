@@ -23,3 +23,4 @@ Follow these steps to run the Rasayana project:
  **How to run project**
   1. Build for Production: npm run build
   2. Start the server: npm run dev
+https://github.com/naushin515/Rasayana_webapp/blob/a4d28101c34a5afcfe70a0075cec9d94e88d7ccb/Screenshot%202025-10-29%20192410.png
