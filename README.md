@@ -9,6 +9,7 @@ Key Features:
  5. **Diet Chart**: Personalized diet recommendations based on dosha results.
  6. **Daily Schedule View**: Suggested daily routines for maintaining dosha balance.
  7. **Follow-up Form**: Enables users to share progress and get updated suggestions.
+    
  Rasayana’s goal is to bridge ancient holistic health science with digital technology, providing a simple, interactive, and educational tool for individuals seeking balance and self-awareness in daily life.
 
 **Installation Steps**
